@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+	<data>
+		<template id="snippets-custom-menu" inherit_id="website.snippets">
+			
+			<!-- CUSTOM SNUPPETS MENU ITEM -->
+			<xpath expr="//ul[@class='nav navbar-nav nav-tabs']" position="inside">
+				<li>
+					<a href="#custom_snipets" data-toggle="tab">Custom</a>
+				</li>
+			</xpath>
+
+			<!-- CUSTOM SNIPPETS TAB -->
+			<xpath expr="//div[@id='snippet_effect']" position="after">
+				<div id="custom_snipets" class="tab-pane fade">
+				</div>
+			</xpath>
+		</template>
+	</data>
+</openerp>

@@ -1,0 +1,9 @@
+@import "compass/css3";
+@import "snippets/cycle";
+
+@mixin wbb-cycle
+{
+	@include wbb-snippets-cycle;
+}
+
+@include wbb-cycle;
