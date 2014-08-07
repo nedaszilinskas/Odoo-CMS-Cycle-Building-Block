@@ -6,9 +6,7 @@ _Description: This custom module enables a custom image slider building block in
 
 ### _Requirements of deployment environment_
 
-- _Requires Odoo v8._
-- _Requires Website Builder module._
-- _Required dependencies are not included in this repository._
+- _Requires Odoo v8 (https://github.com/odoo/odoo/tree/8.0)_
 
 ### _How to deploy_
 
@@ -17,9 +15,7 @@ _Description: This custom module enables a custom image slider building block in
 - _Search & Install module as any other via Odoo settings._
 
 ### _Notes_
-- _This is an example Building Block module for Odoo v8 Website Builder._
-- _Uncompressed assets._
-- _Can be used as a boilerplate for further customisations._
+- _This module is also compatible with Odoo Cloud (zip before import)._
 
 ## License
 MIT (see license section)
