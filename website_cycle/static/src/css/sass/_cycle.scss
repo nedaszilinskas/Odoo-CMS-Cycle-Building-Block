@@ -41,11 +41,11 @@
 						left: 45px;
 						z-index: 1000;
 						cursor: pointer;
-						background-image: url(img/left_arrow.png);
+						background-image: url(/website_cycle/static/src/css/img/left_arrow.png);
 						
 						&:hover
 						{
-							background-image: url(img/left_arrow_hover.png);
+							background-image: url(/website_cycle/static/src/css/img/left_arrow_hover.png);
 						}
 					}
 
@@ -59,11 +59,11 @@
 						right: 45px;
 						z-index: 1000;
 						cursor: pointer;
-						background-image: url(img/right_arrow.png);
+						background-image: url(/website_cycle/static/src/css/img/right_arrow.png);
 						
 						&:hover
 						{
-							background-image: url(img/right_arrow_hover.png);
+							background-image: url(/website_cycle/static/src/css/img/right_arrow_hover.png);
 						}
 					}
 				}
