@@ -10,7 +10,7 @@
     	</template>
 
 
-        <!-- JS includes (compiled) -->
+        <!-- JS in <head/> -->
         <template id="javascripts_head" inherit_id="website.layout">
             <xpath expr="//head" position="inside">
                 <script type="text/javascript" src="/website_cycle/static/src/js/snippet.params.js"></script>
@@ -19,7 +19,7 @@
             </xpath>
         </template>
 
-        <!-- JS in <head/> -->
+        <!-- JS includes (compiled) -->
     	<template id="javascripts_compiled" inherit_id="website.assets_frontend">
     		<xpath expr="." position="inside">
                 <script type="text/javascript" src="/website_cycle/static/src/js/lib/vendor/jquery.cycle.all.js"></script>
