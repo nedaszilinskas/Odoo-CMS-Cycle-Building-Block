@@ -7,7 +7,7 @@
 Cycle Building Block for Odoo CMS
 ======================================
         """,
-    'author': 'Nedas Žilinskas • WebByBrains <nedas@webbybrains.com>',
+    'author': 'Nedas Žilinskas <nedas.zilinskas@gmail.com>',
     'depends': ['website'],
     'data': [
         'views/assets.xml',
