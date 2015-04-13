@@ -7,7 +7,7 @@
                 <div>
                     <!-- Thumbnail -->
                     <div class="oe_snippet_thumbnail">
-                        <img class="oe_snippet_thumbnail_img" src="/website_cycle/static/src/css/img/default_thumbnail.jpg" />
+                        <img class="oe_snippet_thumbnail_img" src="/website_cycle/static/src/css/img/thumbnail.png" />
                         <span class="oe_snippet_thumbnail_title">Cycle</span>
                     </div>
 
