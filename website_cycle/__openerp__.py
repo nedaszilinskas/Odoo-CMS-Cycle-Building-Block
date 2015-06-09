@@ -1,11 +1,12 @@
 {
     'name': 'Cycle Building Block',
     'category': 'Website',
-    'summary': 'This custom module enables a custom image slider building block in Odoo CMS.',
+    'summary': 'Image slider building block',
     'version': '1.0',
     'description': """
-Cycle Building Block for Odoo CMS
+Cycle Building Block
 ======================================
+Image slider building block
         """,
     'author': 'Nedas Žilinskas <nedas.zilinskas@gmail.com>',
     'website': 'http://nedaszilinskas.com',
